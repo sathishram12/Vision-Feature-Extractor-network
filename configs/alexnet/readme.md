@@ -7,17 +7,20 @@
 
 * ReLU speeds up computation significantly
   Relu Backpropagation:
-    ![relu](artifacts/relu.png)
+  
+  ![relu](artifacts/relu.png)
   
   tanh Backpropagation:
-    ![tanh](artifacts/tanh.png)
+
+  ![tanh](artifacts/tanh.png)
   
   sigmoid Backpropagation:
-    ![sigmoid](artifacts/sigmoid.png)
+  
+  ![sigmoid](artifacts/sigmoid.png)
 
 ## Max Pooling
 
-* Overlap Max Pooling
+* Introduced Overlap Pooling or maxpooling
 
 ## Normalization
 
@@ -50,4 +53,4 @@ In summary, while both LRN and BN aim to improve training performance, Batch Nor
 
 ## Questions in My mind
 
-* Using PCA to generate dataset.
+* How much effective using PCA to generate dataset.
