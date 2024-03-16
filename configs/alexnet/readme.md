@@ -8,8 +8,10 @@
 * ReLU speeds up computation significantly
   Relu Backpropagation:
     ![relu](artifacts/relu.png)
+  
   tanh Backpropagation:
     ![tanh](artifacts/tanh.png)
+  
   sigmoid Backpropagation:
     ![sigmoid](artifacts/sigmoid.png)
 
